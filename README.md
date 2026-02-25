@@ -8,13 +8,13 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/rickpotatoe/camhack
 
-* cd Cam-Hackers
+* cd camhack
 
 * pip install -r requirements.txt
 
-* python3 cam-hackers.py
+* python3 camhack.py
 
 # CAM-HACKERS
 
